@@ -1,0 +1,10 @@
+{
+  "uuid": "98a1b9e1-b34d-4db1-8956-7cb0feb77401",
+  "name": "Figure 2c: Veratridine reduces nascent sheath length but not sheath number or axon selection",
+  "type": {
+    "shortname": "rnaseq",
+    "display_name": "Bulk RNA sequencing",
+    "short_display_name": "RNA-seq"
+  },
+  "status": "completed"
+}

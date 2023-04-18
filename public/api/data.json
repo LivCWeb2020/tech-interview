@@ -1,0 +1,34 @@
+{
+  "headers": [
+    "Sample_ID",
+    "Condition",
+    "Dose",
+    "Sex"
+  ],
+  "items": [
+    {
+      "Sample_ID": "Vehicle1",
+      "Condition": "Vehicle",
+      "Dose": null,
+      "Sex": "Male"
+    },
+    {
+      "Sample_ID": "Vehicle2",
+      "Condition": "Vehicle",
+      "Dose": null,
+      "Sex": "Male"
+    },
+    {
+      "Sample_ID": "Dex1",
+      "Condition": "Dexamethasone",
+      "Dose": "5 uM",
+      "Sex": "Male"
+    },
+    {
+      "Sample_ID": "Dex2",
+      "Condition": "Dexamethasone",
+      "Dose": "5 uM",
+      "Sex": "Female"
+    }
+  ]
+}

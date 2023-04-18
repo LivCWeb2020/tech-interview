@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "target_name": "IFNg",
+      "group_id": "314",
+      "group_name": "Vehicle",
+      "sample_id": "Vehicle1",
+      "value": 0.64382
+    },
+    {
+      "target_name": "IFNg",
+      "group_id": "314",
+      "group_name": "Vehicle",
+      "sample_id": "Vehicle2",
+      "value": 0.434438
+    },
+    {
+      "target_name": "IFNg",
+      "group_id": "314",
+      "group_name": "Vehicle",
+      "sample_id": "Vehicle3",
+      "value": 0.78649673
+    },
+    {
+      "target_name": "IFNg",
+      "group_id": "314",
+      "group_name": "Vehicle",
+      "sample_id": "Vehicle4",
+      "value": 1.42459868
+    },
+    {
+      "target_name": "IFNg",
+      "group_id": "314",
+      "group_name": "Vehicle",
+      "sample_id": "Vehicle5",
+      "value": 0.62729772
+    },
+    {
+      "target_name": "IFNg",
+      "group_id": "314",
+      "group_name": "Vehicle",
+      "sample_id": "Vehicle6",
+      "value": 0.8850856
+    },
+    {
+      "target_name": "IFNg",
+      "group_id": "321",
+      "group_name": "Dexamethasone 10 uM",
+      "sample_id": "Dex5",
+      "value": 0.1640478
+    },
+    {
+      "target_name": "IFNg",
+      "group_id": "321",
+      "group_name": "Dexamethasone 10 uM",
+      "sample_id": "Dex6",
+      "value": 0.2093355
+    },
+    {
+      "target_name": "IFNg",
+      "group_id": "321",
+      "group_name": "Dexamethasone 10 uM",
+      "sample_id": "Dex7",
+      "value": 0.20314131
+    },
+    {
+      "target_name": "IFNg",
+      "group_id": "321",
+      "group_name": "Dexamethasone 10 uM",
+      "sample_id": "Dex8",
+      "value": 0.17684478
+    }
+  ]
+}
