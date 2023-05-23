@@ -1,0 +1,15 @@
+.not-found {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.not-found__title {
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 0px;
+    text-align: left;
+}
